@@ -17,3 +17,7 @@ You must also have a Notion DB setup with the following fields:
 Then you can run 
 
 `python main.py`
+
+Once the app is running, open a browser and point it at 
+
+`http://127.0.0.1:8050`
